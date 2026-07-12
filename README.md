@@ -63,16 +63,16 @@ Halaman admin tidak dapat diakses sebelum login.
 CRUD artikel tetap berjalan dengan baik.
 Logout berhasil menghapus session dan mengembalikan pengguna ke halaman login.
 
-Screenshot:
+## Screenshot:
 
-Halaman Login
+### Halaman Login
 <img width="1920" height="1200" alt="7" src="https://github.com/user-attachments/assets/98bdc161-958f-4125-b217-7e03448888ef" />
 
-Halaman Admin
+### Halaman Admin
 <img width="1920" height="1200" alt="9" src="https://github.com/user-attachments/assets/fdd38910-e832-4bde-992f-118d27bc3fca" />
 
-Logout
-Pengujian Auth Filter
+### Logout
+### Pengujian Auth Filter
 
 ## Kesimpulan
 Pada praktikum ini berhasil dibuat sistem autentikasi menggunakan CodeIgniter 4. Sistem login memanfaatkan session dan Auth Filter sehingga halaman admin hanya dapat diakses oleh pengguna yang telah melakukan login. Selain itu, fitur logout berhasil menghapus session sehingga keamanan aplikasi menjadi lebih baik.
